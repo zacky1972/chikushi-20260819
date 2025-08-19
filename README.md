@@ -12,4 +12,5 @@
 10. [耕作放棄地の早期発見及び把握で農業課題の解決に挑む](https://sorabatake.jp/20806/)
 11. [衛星データを利用して理想の家探しはできるのか!?](https://sorabatake.jp/15905/)
 12. **AI衛星・スマホみたいにアップデートできる衛星**
-13. [最後のアンケート](https://forms.office.com/Pages/ResponsePage.aspx?id=dqpZ2qrg50-_EXI97pjWdhNoVLKGiUpEttIPzDun-NtUNkdJM0FDRlBOQ1JKN0lROVFJU1oyUU5CMi4u)
+13. [GEEKKイニシアティブ](https://geekk.jp)
+14. [最後のアンケート](https://forms.office.com/Pages/ResponsePage.aspx?id=dqpZ2qrg50-_EXI97pjWdhNoVLKGiUpEttIPzDun-NtUNkdJM0FDRlBOQ1JKN0lROVFJU1oyUU5CMi4u)
